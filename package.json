@@ -1,0 +1,26 @@
+{
+  "name": "mcs-10-advanced-js",
+  "version": "1.0.0",
+  "description": "1. Розберемо:",
+  "main": "index.js",
+  "scripts": {
+    "minifyCss": "npx postcss src/css/styles.css > src/css/styles.min.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olexiy-repin/MCS-10-Advanced-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Olexiy-repin/MCS-10-Advanced-JS/issues"
+  },
+  "homepage": "https://github.com/Olexiy-repin/MCS-10-Advanced-JS#readme",
+  "devDependencies": {
+    "cssnano": "^7.1.4",
+    "postcss": "^8.5.9",
+    "postcss-cli": "^11.0.1"
+  }
+}
